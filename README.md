@@ -1,16 +1,24 @@
-### Hi there 👋
+![readmetitle](https://user-images.githubusercontent.com/89570017/148892788-12828d75-446a-4f4e-8df4-e77216481e1c.png)
 
-<!--
-**madeleinesc/madeleinesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Madeleine! 👋
 
-Here are some ideas to get you started:
+## I'm a junior full stack web developer currently based in Adelaide, Australia. 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 I’m currently studying a coding bootcamp through the University of Adelaide.
+
+✈️ I spent the last decade travelling around the world, settling in Austin, Texas then Manchester (UK) before finally moving back to Australia in 2020.
+
+ 💻 I have always been fascinated with technology, programming and design but it wasnt until I spent 5 months in lockdown in the UK that I decided to delve into this head on!
+ 
+🛠️ I am still a relatively new web developer but I have picked up some lifelong skills and am looking forward to watch the future holds!
+
+
+
+
+⚡ Fun fact: Im a walking encylopeadia of book, film and tv knowledge! Ask me anything! 📖 🎞️
+
+📫 How to reach me: madeleine.codes@gmail.com 😃 
+
+
+
