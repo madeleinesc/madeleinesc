@@ -15,7 +15,7 @@
 
 ⚡ Fun fact: Im a walking encylopeadia of book, film and tv knowledge! Ask me anything! 📖 🎞️
 
-📫 How to reach me: madeleine.codes@gmail.com 😃 
+📫 How to reach me: madeleine.codes@gmail.com
 
 😃 Please check out my repo's below to see my progress so far!
 
