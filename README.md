@@ -5,13 +5,13 @@
 ## I'm a junior full stack web developer currently based in Adelaide, Australia. 👩‍💻
 
 
-🌱 I’m studying a coding bootcamp through the University of Adelaide.
+🌱 I am currently studying web devlopement through a coding bootcamp at the University of Adelaide.
 
 ✈️ I spent the last decade travelling around the world, settling in Austin, Texas then Manchester (UK) before finally moving back to Australia in 2020.
 
  💻 I have always been fascinated with technology, programming and design but it wasnt until I spent 5 months in lockdown in the UK that I decided to delve into this head on!
  
-🛠️ I am still a relatively new web developer but I have picked up some lifelong skills and am looking forward to watch the future holds!
+🛠️ I am still a relatively new web developer but I have picked up some lifelong skills and am looking forward to whath the future holds!
 
 ⚡ Fun fact: Im a walking encylopeadia of book, film and tv knowledge! Ask me anything! 📖 🎞️
 
