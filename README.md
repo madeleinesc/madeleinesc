@@ -2,7 +2,7 @@
 
 # Hi there, I'm Madeleine! 👋
 
-## I'm a junior full stack web developer currently based in Adelaide, Australia. 👩‍💻
+## I'm a junior web developer currently based in Adelaide, Australia. 👩‍💻
 
 
 🌱 I am currently studying web devlopement through a coding bootcamp at the University of Adelaide.
