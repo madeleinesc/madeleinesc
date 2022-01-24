@@ -11,7 +11,7 @@
 
  💻 I have always been fascinated with technology, programming and design but it wasnt until I spent 5 months in lockdown in the UK that I decided to delve into this head on!
  
-🛠️ I am still a relatively new web developer but I have picked up some lifelong skills and am looking forward to whath the future holds!
+🛠️ I am still a relatively new web developer but I have picked up some lifelong skills and am looking forward to what the future holds!
 
 ⚡ Fun fact: Im a walking encylopeadia of book, film and tv knowledge! Ask me anything! 📖 🎞️
 
